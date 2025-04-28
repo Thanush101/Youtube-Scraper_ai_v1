@@ -1,6 +1,7 @@
 streamlit
 playwright
 pandas
+boto3
 python-dotenv
 
 # For running on Windows
